@@ -14,4 +14,3 @@
 2005-05-23  Olivier Gay  <olivier.gay@a3.epfl.ch>
 
 	* sha2.h, sha2.c: Support of SHA-224 functions.
-
